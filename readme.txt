@@ -1,11 +1,11 @@
 ﻿Hi,everyone. Welcome to JPocket! 
 
-I am JPocket Butler. i am here to service you on using JPocket,i know everything about JPocket,
+I am Billy. i am here to service you on using JPocket,i know everything about JPocket,
 just feel free to ask me . As i have got some question from my users and those question seems quite
 common, therefore i concatenated them into following question showed below.
 
 THE PURPOSE OF JPocket:
-User X: Hi, Butler.Answer me ,What is the purpose of JPocket?
+User X: Hi, Billy.Answer me ,What is the purpose of JPocket?
 Me: JPocket is to help relaxing your server's workload and gear up your website response time .
 
 User X: How could it relax my server's workload?
